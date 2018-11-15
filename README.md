@@ -2,8 +2,7 @@
 
 Kohti kansallista sote-tietojen saatavuuspalvelua - loppuraportti
 
-**Tiivistelmä**
-
+**Tiivistelmä**  
 Tässä julkaistu raportti esittää näkemyksen sosiaali- ja terveydenhuollon aineistojen
 saatavuusarkkitehtuuriksi sekä käy läpi joitakin valmisratkaisuja ja niistä
 saatuja kokemuksia.
@@ -20,5 +19,5 @@ hyödyntämisen arkkitehtuuri.
 
 **Tekijät:**  
 Minna Blomster, Arho Virkki, Anna Hammais ja Auria tietopalvelun tiimi,  
-Varsinais-Suomen Sairaanhoitopiiri, Turku
+Varsinais-Suomen Sairaanhoitopiiri, Turku  
 <https://auria.fi>
